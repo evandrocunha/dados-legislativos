@@ -1,2 +1,2 @@
 # dados-legislativos
-Repositório referente à exploração e análise da Base de Normas Jurídicas Brasileiras
+Repositório referente à exploração e análise da Base de Normas Jurídicas Brasileiras. EM CONSTRUÇÃO.
